@@ -17,7 +17,7 @@ Next, I typed `vim ListExamples.java` which displayed the code in the fail, I th
  **step five**
  
  ![image](lab75.png)  
- Then, I retyped `bash test.sh` to show that the tests work after the fix.  
+ Then, I retyped `bash test.sh` to show that the tests worked after the fix.  
  
  **step six**  
 
